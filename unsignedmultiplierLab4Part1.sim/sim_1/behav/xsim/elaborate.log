@@ -1,0 +1,71 @@
+Vivado Simulator 2019.1
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2019.1/bin/unwrapped/win64.o/xelab.exe -wto c1878aed005f44fcaaa5610c6d197b37 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_mult_behav xil_defaultlib.tb_mult xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4100] "C:/Vivado/unsignedmultiplierLab4Part1/unsignedmultiplierLab4Part1.srcs/sources_1/new/unsigned_int_multiplier.v" Line 1. Module unsigned_int_multiplier has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Vivado/unsignedmultiplierLab4Part1/unsignedmultiplierLab4Part1.srcs/sources_1/new/shift_and_zero.v" Line 3. Module shift_and_zero has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Vivado/unsignedmultiplierLab4Part1/unsignedmultiplierLab4Part1.srcs/sources_1/new/cla8bit.v" Line 23. Module cla8bit has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Vivado/unsignedmultiplierLab4Part1/unsignedmultiplierLab4Part1.srcs/sources_1/new/fourbitadder.v" Line 1. Module fourbitadder has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Vivado/unsignedmultiplierLab4Part1/unsignedmultiplierLab4Part1.srcs/sources_1/new/half_adder.v" Line 1. Module half_adder has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Vivado/unsignedmultiplierLab4Part1/unsignedmultiplierLab4Part1.srcs/sources_1/new/half_adder.v" Line 1. Module half_adder has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Vivado/unsignedmultiplierLab4Part1/unsignedmultiplierLab4Part1.srcs/sources_1/new/half_adder.v" Line 1. Module half_adder has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Vivado/unsignedmultiplierLab4Part1/unsignedmultiplierLab4Part1.srcs/sources_1/new/half_adder.v" Line 1. Module half_adder has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Vivado/unsignedmultiplierLab4Part1/unsignedmultiplierLab4Part1.srcs/sources_1/new/xor_gate.v" Line 1. Module xor_gate has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Vivado/unsignedmultiplierLab4Part1/unsignedmultiplierLab4Part1.srcs/sources_1/new/xor_gate.v" Line 1. Module xor_gate has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Vivado/unsignedmultiplierLab4Part1/unsignedmultiplierLab4Part1.srcs/sources_1/new/xor_gate.v" Line 1. Module xor_gate has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Vivado/unsignedmultiplierLab4Part1/unsignedmultiplierLab4Part1.srcs/sources_1/new/xor_gate.v" Line 1. Module xor_gate has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Vivado/unsignedmultiplierLab4Part1/unsignedmultiplierLab4Part1.srcs/sources_1/new/fourbitadder.v" Line 1. Module fourbitadder has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Vivado/unsignedmultiplierLab4Part1/unsignedmultiplierLab4Part1.srcs/sources_1/new/half_adder.v" Line 1. Module half_adder has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Vivado/unsignedmultiplierLab4Part1/unsignedmultiplierLab4Part1.srcs/sources_1/new/half_adder.v" Line 1. Module half_adder has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Vivado/unsignedmultiplierLab4Part1/unsignedmultiplierLab4Part1.srcs/sources_1/new/half_adder.v" Line 1. Module half_adder has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Vivado/unsignedmultiplierLab4Part1/unsignedmultiplierLab4Part1.srcs/sources_1/new/half_adder.v" Line 1. Module half_adder has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Vivado/unsignedmultiplierLab4Part1/unsignedmultiplierLab4Part1.srcs/sources_1/new/xor_gate.v" Line 1. Module xor_gate has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Vivado/unsignedmultiplierLab4Part1/unsignedmultiplierLab4Part1.srcs/sources_1/new/xor_gate.v" Line 1. Module xor_gate has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Vivado/unsignedmultiplierLab4Part1/unsignedmultiplierLab4Part1.srcs/sources_1/new/xor_gate.v" Line 1. Module xor_gate has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Vivado/unsignedmultiplierLab4Part1/unsignedmultiplierLab4Part1.srcs/sources_1/new/xor_gate.v" Line 1. Module xor_gate has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Vivado/unsignedmultiplierLab4Part1/unsignedmultiplierLab4Part1.srcs/sources_1/new/cla8bit.v" Line 23. Module cla8bit has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Vivado/unsignedmultiplierLab4Part1/unsignedmultiplierLab4Part1.srcs/sources_1/new/fourbitadder.v" Line 1. Module fourbitadder has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Vivado/unsignedmultiplierLab4Part1/unsignedmultiplierLab4Part1.srcs/sources_1/new/half_adder.v" Line 1. Module half_adder has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Vivado/unsignedmultiplierLab4Part1/unsignedmultiplierLab4Part1.srcs/sources_1/new/half_adder.v" Line 1. Module half_adder has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Vivado/unsignedmultiplierLab4Part1/unsignedmultiplierLab4Part1.srcs/sources_1/new/half_adder.v" Line 1. Module half_adder has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Vivado/unsignedmultiplierLab4Part1/unsignedmultiplierLab4Part1.srcs/sources_1/new/half_adder.v" Line 1. Module half_adder has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Vivado/unsignedmultiplierLab4Part1/unsignedmultiplierLab4Part1.srcs/sources_1/new/xor_gate.v" Line 1. Module xor_gate has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Vivado/unsignedmultiplierLab4Part1/unsignedmultiplierLab4Part1.srcs/sources_1/new/xor_gate.v" Line 1. Module xor_gate has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Vivado/unsignedmultiplierLab4Part1/unsignedmultiplierLab4Part1.srcs/sources_1/new/xor_gate.v" Line 1. Module xor_gate has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Vivado/unsignedmultiplierLab4Part1/unsignedmultiplierLab4Part1.srcs/sources_1/new/xor_gate.v" Line 1. Module xor_gate has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Vivado/unsignedmultiplierLab4Part1/unsignedmultiplierLab4Part1.srcs/sources_1/new/fourbitadder.v" Line 1. Module fourbitadder has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Vivado/unsignedmultiplierLab4Part1/unsignedmultiplierLab4Part1.srcs/sources_1/new/half_adder.v" Line 1. Module half_adder has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Vivado/unsignedmultiplierLab4Part1/unsignedmultiplierLab4Part1.srcs/sources_1/new/half_adder.v" Line 1. Module half_adder has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Vivado/unsignedmultiplierLab4Part1/unsignedmultiplierLab4Part1.srcs/sources_1/new/half_adder.v" Line 1. Module half_adder has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Vivado/unsignedmultiplierLab4Part1/unsignedmultiplierLab4Part1.srcs/sources_1/new/half_adder.v" Line 1. Module half_adder has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Vivado/unsignedmultiplierLab4Part1/unsignedmultiplierLab4Part1.srcs/sources_1/new/xor_gate.v" Line 1. Module xor_gate has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Vivado/unsignedmultiplierLab4Part1/unsignedmultiplierLab4Part1.srcs/sources_1/new/xor_gate.v" Line 1. Module xor_gate has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Vivado/unsignedmultiplierLab4Part1/unsignedmultiplierLab4Part1.srcs/sources_1/new/xor_gate.v" Line 1. Module xor_gate has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Vivado/unsignedmultiplierLab4Part1/unsignedmultiplierLab4Part1.srcs/sources_1/new/xor_gate.v" Line 1. Module xor_gate has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Vivado/unsignedmultiplierLab4Part1/unsignedmultiplierLab4Part1.srcs/sources_1/new/cla8bit.v" Line 23. Module cla8bit has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Vivado/unsignedmultiplierLab4Part1/unsignedmultiplierLab4Part1.srcs/sources_1/new/fourbitadder.v" Line 1. Module fourbitadder has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Vivado/unsignedmultiplierLab4Part1/unsignedmultiplierLab4Part1.srcs/sources_1/new/half_adder.v" Line 1. Module half_adder has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Vivado/unsignedmultiplierLab4Part1/unsignedmultiplierLab4Part1.srcs/sources_1/new/half_adder.v" Line 1. Module half_adder has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Vivado/unsignedmultiplierLab4Part1/unsignedmultiplierLab4Part1.srcs/sources_1/new/half_adder.v" Line 1. Module half_adder has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Vivado/unsignedmultiplierLab4Part1/unsignedmultiplierLab4Part1.srcs/sources_1/new/half_adder.v" Line 1. Module half_adder has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Vivado/unsignedmultiplierLab4Part1/unsignedmultiplierLab4Part1.srcs/sources_1/new/xor_gate.v" Line 1. Module xor_gate has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Vivado/unsignedmultiplierLab4Part1/unsignedmultiplierLab4Part1.srcs/sources_1/new/xor_gate.v" Line 1. Module xor_gate has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Vivado/unsignedmultiplierLab4Part1/unsignedmultiplierLab4Part1.srcs/sources_1/new/xor_gate.v" Line 1. Module xor_gate has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Vivado/unsignedmultiplierLab4Part1/unsignedmultiplierLab4Part1.srcs/sources_1/new/xor_gate.v" Line 1. Module xor_gate has a timescale but at least one module in design doesn't have timescale.
+INFO: [Common 17-14] Message 'XSIM 43-4100' appears 50 times and further instances of the messages will be disabled. Use the Tcl command set_msg_config to change the current settings.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.and_gate
+Compiling module xil_defaultlib.shift_and_zero
+Compiling module xil_defaultlib.half_adder
+Compiling module xil_defaultlib.carry_lookaheadrevB
+Compiling module xil_defaultlib.xor_gate
+Compiling module xil_defaultlib.fourbitadder
+Compiling module xil_defaultlib.cla8bit
+Compiling module xil_defaultlib.unsigned_int_multiplier
+Compiling module xil_defaultlib.tb_mult
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_mult_behav
